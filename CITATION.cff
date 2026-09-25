@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: >-
+  The Elephant in a Neuron: Metrological Certification of the
+  Continuous Custody of a Closed Volume between Two Stations
+message: If you use this framework, please cite it using these metadata.
+type: software
+authors:
+  - family-names: Malia
+    given-names: Alejo
+    roles:
+      - Principal investigator
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22959145
+repository-code: https://github.com/AlejoMalia/ELPH-N
+license: CC-BY-NC-SA-4.0
+version: 3.6
+date-released: '2026-09-25'
+keywords:
+  - metrology
+  - structure function
+  - acceptance testing
+  - evidence accounting
+  - pre-registration
+  - safety engineering
+abstract: >-
+  A complete and falsifiable metrological framework for certifying that a closed
+  volume has been transferred between two stations without alteration of its
+  contents, without reading those contents and without cloning them. The
+  framework is articulated in 109 statements across eight axes of completeness:
+  the seven statement axes stand at 100 per cent and the eighth, MEASURED,
+  stands at 0 per cent, placing the framework at 87.5 per cent. This is a
+  pre-registered protocol for third parties to refute, not a report of results.

@@ -1,0 +1,52 @@
+# Scientific Non-Commercial Research License
+## Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+### Project: ELPH-N · Elephant In Neuron
+**Copyright (c) 2026 Alejo Malia. All rights reserved.**
+
+---
+
+### Preamble & Scientific Intent
+This repository, including all foundational papers, theoretical derivations, preregistrations, metrological protocols, algorithms, and simulation software of the **ELPH-N · Elephant In Neuron** program, is released under an open academic framework dedicated to **scientific non-commercial inquiry, experimental replication, educational instruction, and open research verification**.
+
+Commercial exploitation, proprietary closed-source redistribution, or commercial use without prior explicit written agreement from the author is strictly prohibited.
+
+---
+
+### Terms of Use
+
+By accessing, downloading, compiling, citing, or utilizing any portion of this repository, you agree to the following conditions:
+
+#### 1. Permitted Scientific & Academic Uses (Non-Commercial)
+You are free to:
+* **Read, Study, and Review:** Freely inspect, study, and analyze the theoretical frameworks, decision registries, and mathematical models.
+* **Academic Simulation & Replication:** Run, verify, benchmark, and reproduce all simulation code (`core_engine/`, `papers/simulations/`, `experiments/`) in university, institutional, or independent academic research environments.
+* **Academic Derivative Works & Extensions:** Adapt, build upon, or extend the scientific theories and algorithms for peer-reviewed academic papers, theses, or non-commercial public research, provided the resulting works are distributed under the same license terms.
+* **Educational Use:** Utilize figures, documentation, and algorithms for teaching and educational presentations.
+
+#### 2. Mandatory Attribution Clause
+In any publication, preprint, citation, reproduction, or presentation utilizing concepts, equations, datasets, or algorithms from this project, you must provide proper scientific attribution to the author:
+
+> **Alejo Malia (2026).** *The Elephant in a Neuron: A Formal Metrological Framework for Non-Clonable Baryonic Configuration Transfer and Closed-Volume Custody.* ELPH-N Preregistered Scientific Archive.
+
+BibTeX:
+```bibtex
+@article{malia2026elphn,
+  title={The Elephant in a Neuron: A Formal Metrological Framework for Non-Clonable Baryonic Configuration Transfer and Closed-Volume Custody},
+  author={Malia, Alejo},
+  journal={ELPH-N Preregistered Scientific Archive},
+  year={2026},
+  note={Scientific Non-Commercial Research License CC BY-NC-SA 4.0}
+}
+```
+
+#### 3. Strict Non-Commercial Restrictions
+* **No Commercial Use:** You may NOT use this material, code, hardware specifications, or methodologies for commercial advantage or monetary compensation.
+* **No Proprietary Commercial Enclosures:** You may not patent, incorporate into commercial products, bundle into commercial closed-source software, or utilize in commercial automated fabrication systems without explicit written permission from the copyright holder.
+* **ShareAlike for Research:** If you remix, transform, or build upon the material for non-commercial research, you must distribute your contributions under the identical license.
+
+#### 4. Disclaimer of Warranty
+THIS WORK IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS IS", AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
+
+---
+
+For inquiries regarding licensed commercial application or specialized institutional partnerships, contact the author directly via the official project channels.

@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "elphn"
+version = "0.1.0"
+description = "Metrological certification of the continuous custody of a closed volume: a reference implementation in which every formula carries its evidentiary status and refuses to be used outside its verified domain."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "CC-BY-NC-SA-4.0" }
+authors = [{ name = "Alejo Malia" }]
+keywords = ["metrology", "structure function", "acceptance testing",
+            "evidence accounting", "pre-registration", "safety engineering"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Physics",
+]
+dependencies = ["numpy>=1.20"]
+
+[project.optional-dependencies]
+robust = ["scipy>=1.7"]          # Theil-Sen; a pure-Python fallback ships in the package
+
+[project.urls]
+Repository = "https://github.com/AlejoMalia/ELPH-N"
+
+[tool.setuptools]
+packages = ["elphn"]

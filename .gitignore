@@ -1,0 +1,31 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+data/raw/
+data/external/
+*.npy
+.DS_Store
+.gitjunk/
+
+# --- datos brutos descargados: NO se versionan ---
+# Son reproducibles desde su URL con el SHA-256 registrado en docs/DATOS.md
+# y en cada PREREGISTRO. Lo que sí se versiona son los SUBGRAFOS CONGELADOS
+# en experiments/*/results/, que son el registro experimental.
+data/flywire/
+data/raton/
+data/humano/
+*.csv.gz
+*.npz
+*.safetensors
+
+# generado, regenerable, y queda obsoleto en cuanto avanza el programa
+graphify-out/
+
+# MaleCNS v1.0 (Janelia FlyEM, CC-BY) -- 1 GB, se descarga con code/descargar.sh
+data/malecns/*.feather
+papers/assets/preview/
+
+# directivas internas de trabajo: no forman parte de la publicacion
+CLAUDE.md
